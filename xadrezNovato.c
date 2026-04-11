@@ -8,7 +8,7 @@ int main()
     int mov_rainha = 8;
 
     // Movimento da torre: repetição com for.
-    printf("\nmovimentando a torre para a direita ...\n");
+    printf("\nmovimentando a torre...\n");
     for (int i = 0; i < mov_torre; i++)
     {
         printf("Direita\n");
